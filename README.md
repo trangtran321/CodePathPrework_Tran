@@ -15,7 +15,11 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<div style="position: relative; padding-bottom: 215.13944223107572%; height: 0;"><iframe src="https://www.loom.com/embed/9087d5b7572a4f7cbae5ecaa7ba4a0c4?sid=bcb37bdc-b2db-4d17-8eb2-1362e964a50c" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+    <a href="https://www.loom.com/share/9087d5b7572a4f7cbae5ecaa7ba4a0c4">
+    </a>
+    <a href="https://www.loom.com/share/9087d5b7572a4f7cbae5ecaa7ba4a0c4">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9087d5b7572a4f7cbae5ecaa7ba4a0c4-e4300485c83cb231-full-play.gif">
+    </a>
 
 ## App Brainstorming (Step 4)
 1. Instagram
