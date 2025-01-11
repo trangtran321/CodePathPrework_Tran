@@ -21,6 +21,7 @@ The following **required** functionality is completed:
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9087d5b7572a4f7cbae5ecaa7ba4a0c4-e4300485c83cb231-full-play.gif">
     </a>
 </div>
+
 ## App Brainstorming (Step 4)
 1. Instagram
    - The endless scroll of tailored content
